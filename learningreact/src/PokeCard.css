@@ -1,0 +1,12 @@
+.pokecard{
+    border: 1px solid black;
+    width: 300px;
+}
+
+.heading{
+    color: blue;
+}
+
+.img{
+    width: 150px;
+}

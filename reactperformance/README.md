@@ -68,14 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-Components: Why made for
-Expense, ExpenseForm: useState
-Resource: useEffect
-Memo: useMemo
-Form: State Lifting
-useReducer: CounterReducer, TodoReducer
-useCallback: Toggle.js
-useContext: CounterContext
-useRef: CounterUseRef
-controlProps: Control Props Pattern
